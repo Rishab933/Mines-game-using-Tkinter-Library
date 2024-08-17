@@ -1,20 +1,5 @@
 # Mines Game
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Gameplay](#gameplay)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-  - [Main Components](#main-components)
-  - [Betting System](#betting-system)
-  - [Wallet Management](#wallet-management)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 **Mines** is an interactive game developed using Python's `Tkinter` library. The game combines elements of chance with strategic decision-making, allowing users to place bets and attempt to reveal safe tiles while avoiding a hidden "danger" tile. Players can cash out at any time, collecting their winnings based on the number of safe tiles they reveal.
 
